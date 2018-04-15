@@ -1,1 +1,2 @@
-Esto es un conflicto con una rama
+Esto es otro archivo en otra rama con conflicto.txt
+
